@@ -1,0 +1,11 @@
+{
+  "channel": "stable",
+  "version": "1.2.7",
+  "minimum_version": "1.2.7",
+  "mandatory": false,
+  "size": 487651501,
+  "sha256": "294E458E1114EA6799BEEED78C8FB410563B8EE22BEAF7E6D9D15089752651C4",
+  "download_url": "https://github.com/Pandaralho13/PandaWorkplace-Releases/releases/download/panda-workplace-v1.2.7/PandaWorkplace-Setup.exe",
+  "published_at": "2026-09-21T23:10:30Z",
+  "release_notes": "Atualização estável do Panda Workplace."
+}
