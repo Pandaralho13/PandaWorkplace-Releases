@@ -1,0 +1,11 @@
+{
+    "channel":  "demo",
+    "version":  "1.2.7",
+    "minimum_version":  "1.2.7",
+    "mandatory":  false,
+    "size":  104599008,
+    "sha256":  "66FF16C2190772D2449F927BC4F6FF4C0D42C38F12BE5DDF73A8F409F296E0CD",
+    "download_url":  "https://github.com/Pandaralho13/PandaWorkplace-Releases/releases/download/panda-workplace-demo-v1.2.7/PandaWorkplaceDemo-Setup.exe",
+    "published_at":  "2026-09-25T00:51:51Z",
+    "release_notes":  "AtualizaÃ§Ã£o estÃ¡vel do Panda Workplace Demo."
+}
