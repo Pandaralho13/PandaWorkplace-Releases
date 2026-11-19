@@ -4,26 +4,35 @@ Distribuição oficial do Panda Workplace.
 
 ## Baixar para Windows
 
-### [⬇️ BAIXAR PANDA WORKPLACE 1.2.7 — INSTALADOR COMPLETO](https://github.com/Pandaralho13/PandaWorkplace-Releases/releases/download/panda-workplace-v1.2.7/PandaWorkplace-Setup.exe)
+[![BAIXAR PANDA WORKPLACE](https://img.shields.io/badge/BAIXAR-PANDA%20WORKPLACE-2563EB?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Pandaralho13/PandaWorkplace-Releases/releases/latest/download/PandaWorkplace-Setup.exe)
 
-**Arquivo:** `PandaWorkplace-Setup.exe` · **Tamanho:** aproximadamente 488 MB · **Publicação:** 21/09/2026.
+### [⬇️ BAIXAR PANDA WORKPLACE 1.2.9 — INSTALADOR COMPLETO](https://github.com/Pandaralho13/PandaWorkplace-Releases/releases/latest/download/PandaWorkplace-Setup.exe)
 
-1. Clique no link acima e aguarde o download.
-2. Abra `PandaWorkplace-Setup.exe` no Windows e siga o instalador.
-3. O uso requer licença válida.
+- **Arquivo:** `PandaWorkplace-Setup.exe`
+- **Versão:** 1.2.9
+- **Build:** `c47f085-202611182115`
+- **Tamanho:** aproximadamente 488 MB
+- **Publicação:** 19/11/2026
 
-Esta é a versão completa 1.2.7 publicada neste repositório. Não é a edição Demo.
+O link aponta sempre para a última versão estável. O nome do arquivo é fixo em todas as versões.
 
-[Ver esta versão e seus arquivos](https://github.com/Pandaralho13/PandaWorkplace-Releases/releases/tag/panda-workplace-v1.2.7) · [Ver todas as versões](https://github.com/Pandaralho13/PandaWorkplace-Releases/releases)
+1. Clique no botão acima e aguarde o download.
+2. Abra `PandaWorkplace-Setup.exe` no Windows e siga o instalador. Como o instalador ainda não tem certificado de assinatura de código, o Windows pode mostrar o aviso do SmartScreen: clique em "Mais informações" e depois em "Executar assim mesmo".
+3. O uso requer uma chave de ativação válida.
+
+A partir da 1.2.9, o Workplace recebe as novas versões automaticamente: ele baixa em segundo plano, confere a assinatura e avisa o funcionário, que escolhe quando instalar.
+
+[Ver esta versão e seus arquivos](https://github.com/Pandaralho13/PandaWorkplace-Releases/releases/tag/panda-workplace-v1.2.9-c47f085-202611182115) · [Ver todas as versões](https://github.com/Pandaralho13/PandaWorkplace-Releases/releases)
 
 > Para instalar o aplicativo, use o arquivo `.exe` acima. Os links **Source code (zip)** e **Source code (tar.gz)** são arquivos do repositório, não o instalador.
 
-## Edição Demo
+## Integridade do instalador
 
-[Baixar Panda Workplace Demo 1.2.7](https://github.com/Pandaralho13/PandaWorkplace-Releases/releases/download/panda-workplace-demo-v1.2.7/PandaWorkplaceDemo-Setup.exe) · aproximadamente 105 MB · publicação em 25/09/2026.
+SHA-256 de `PandaWorkplace-Setup.exe` 1.2.9:
 
-## Integridade do instalador completo
+`f4fc5454a2f6c54cbb0e2d78fa2f236b5ce2991d03a0fa70f22ab915bf6e5950`
 
-SHA-256 de `PandaWorkplace-Setup.exe`:
+## Versões anteriores
 
-`294e458e1114ea6799beeed78c8fb410563b8ee22beaf7e6d9d15089752651c4`
+- [1.2.7](https://github.com/Pandaralho13/PandaWorkplace-Releases/releases/tag/panda-workplace-v1.2.7) (21/09/2026). Versão anterior, não usar para novas instalações.
+- Edição Demo 1.2.7: [release](https://github.com/Pandaralho13/PandaWorkplace-Releases/releases/tag/panda-workplace-demo-v1.2.7).
